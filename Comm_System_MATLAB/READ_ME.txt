@@ -1,0 +1,1 @@
+This project focuses on the wired and wireless communication protocols that have been developed over the years. We look into aliasing, PAM, and PCM 

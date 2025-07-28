@@ -1,0 +1,1 @@
+This file containts a 3D object that can hold and store guitar picks with the Chelsea emblem on the back: [View Cad Model](https://cad.onshape.com/documents/a85bda5789040ad7fbed9af5/w/1e4b86b525e3eb11752e17cf/e/296edd2f65061eed7167ba02?renderMode=0&uiState=6881008caca8b76a0fba39d4)
